@@ -2,6 +2,8 @@
 
 Automation builder, systems tinkerer, and experimental toolmaker.
 
+HumanSynthetic is a technology/product brand of Eellos LLC.
+
 I build software that starts in real-world friction, grows through experimentation, and matures into usable systems. A lot of my work lived for years in private archives of scripts, prototypes, schedulers, bots, operational helpers, creative tools, and research experiments. I am rebuilding the strongest parts of that archive into clean public projects, research notes, and case studies.
 
 ## What I Work On
